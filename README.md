@@ -22,8 +22,6 @@ The goal is to demonstrate data storytelling and business intelligence skills.
 - On-Time Delivery % is lowest in Central region (64.7%), highest in South (69%).
 - Corporate segment drives **46.8% of total profit**.
 
-## Dashboard Preview
-### [Page View]("https://github.com/puneet-data/ecommerce-dashboard/edit/main/images.com")
 
 ---
 
