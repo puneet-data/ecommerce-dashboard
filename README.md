@@ -23,17 +23,7 @@ The goal is to demonstrate data storytelling and business intelligence skills.
 - Corporate segment drives **46.8% of total profit**.
 
 ## Dashboard Preview
-### Page 1: Executive Overview
-![Overview]("https://github.com/puneet-data/ecommerce-dashboard/blob/main/images/page%201.png")
-
-### Page 2: Category & Product Insights
-Products["images/page 1.png"]
-
-### Page 3: Customer & Segment Insights
-[Customers](images/page 3.png)
-
-### Page 4: Order & Shipping Insights
-![Shipping](images/page 4.png)
+### [Page View]("https://github.com/puneet-data/ecommerce-dashboard/edit/main/images.com")
 
 ---
 
