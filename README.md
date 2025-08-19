@@ -24,13 +24,13 @@ The goal is to demonstrate data storytelling and business intelligence skills.
 
 ## Dashboard Preview
 ### Page 1: Executive Overview
-![Overview](images/page 1.png)
+![Overview]("https://github.com/puneet-data/ecommerce-dashboard/edit/main/README.md")
 
 ### Page 2: Category & Product Insights
-![Products](images/page 2.png)
+Products["images/page 1.png"]
 
 ### Page 3: Customer & Segment Insights
-![Customers](images/page 3.png)
+[Customers](images/page 3.png)
 
 ### Page 4: Order & Shipping Insights
 ![Shipping](images/page 4.png)
